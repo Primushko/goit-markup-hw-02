@@ -2,6 +2,32 @@ body {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
 }
+.title-header2 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 0.9;     
+    letter-spacing: 0.02em;
+    text-transform: capitalize;    
+    color: #2E2F42;
+}
+.title-header3 {
+    font-family: 'Roboto';        
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.text-body {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;        
+    letter-spacing: 0.02em;    
+    color: #2E2F42;
+}
+
 /* logo */
 .logo-web {
     font-family: 'Raleway';    
@@ -76,6 +102,8 @@ body {
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
-    color: #FFFFFF;
+    color: #FFFFFF;    
 }
+/* section */
+
 
