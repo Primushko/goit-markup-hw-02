@@ -18,6 +18,15 @@ a {
     color: #434455;
     text-decoration: none;
 }
+.title-header2 {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.1;    
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--navyblue-color);
+}
 .title-header3 {
     font-family: 'Roboto';        
     font-weight: 500;
